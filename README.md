@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sainath97
 - 👀 I’m interested in Cloud and Data
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on anything that is challenging and innovative
 - 📫 How to reach me krishnasainath1997@gmail.com
 
