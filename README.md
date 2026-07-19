@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sainath97
+- 👋 Hi, I’m Krishna Sainath
 - 👀 I’m interested in Cloud and Data
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on anything that is challenging and innovative
